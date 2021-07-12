@@ -9,5 +9,5 @@
 
 **********************************************
 ### init blog event repository 활용방법🧐
-+ **1.** 최소 10줄 이상 작성 - [issue][https://github.com/dojinyou/INIT_blog_event/issues]란을 활용하여 작성
++ **1.** 최소 10줄 이상 작성 - [issue](https://github.com/dojinyou/INIT_blog_event/issues)란을 활용하여 작성
 + **2.** 코드 혹은 사진 (2개 이상) - 코드는 바로 업로드
