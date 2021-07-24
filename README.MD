@@ -11,3 +11,17 @@
 ### init blog event repository 활용방법🧐
 + **1.** 최소 10줄 이상 작성 - **issue**란을 활용하여 작성
 + **2.** 코드 혹은 사진 (2개 이상) - 코드는 바로 업로드
+
+**********************************************
+### 작성내용 보러가기
+
+<details>
+	<summary>1주차 컨텐츠 보기</summary>
+	<ul>
+		<li>
+			<a href='https://github.com/dojinyou/INIT_blog_event/issues/1#issue-952122401'>solved.ac bronze 5 문제 풀기</a>
+		</li>
+	</ul>
+</details>
+
+**********************************************
