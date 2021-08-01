@@ -19,10 +19,13 @@
 	<summary>1주차 컨텐츠 보기</summary>
 	<ul>
 		<li>
-			<a href='https://github.com/dojinyou/INIT_blog_event/issues/1#issue-952122401'>solved.ac bronze 5 문제 풀기</a>
+			<a href='https://github.com/dojinyou/INIT_blog_event/issues/1'>solved.ac bronze 5 문제 풀기</a>
 		</li>
 	</ul>
-	
+</details>
+
+
+<details>
 	<summary>2주차 컨텐츠 보기</summary>
 	<ul>
 		<li>
@@ -30,5 +33,6 @@
 		</li>
 	</ul>
 </details>
+
 
 **********************************************
