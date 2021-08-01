@@ -22,6 +22,13 @@
 			<a href='https://github.com/dojinyou/INIT_blog_event/issues/1#issue-952122401'>solved.ac bronze 5 문제 풀기</a>
 		</li>
 	</ul>
+	
+	<summary>2주차 컨텐츠 보기</summary>
+	<ul>
+		<li>
+			<a href='https://github.com/dojinyou/INIT_blog_event/issues/2'>solved.ac bronze 4 문제 풀기</a>
+		</li>
+	</ul>
 </details>
 
 **********************************************
