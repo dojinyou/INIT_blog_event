@@ -24,7 +24,6 @@
 	</ul>
 </details>
 
-
 <details>
 	<summary>2주차 컨텐츠 보기</summary>
 	<ul>
@@ -38,7 +37,7 @@
 	<summary>3주차 컨텐츠 보기</summary>
 	<ul>
 		<li>
-			<p>작성중2</p>
+			<p>작성중</p>
 		</li>
 	</ul>
 </details>
