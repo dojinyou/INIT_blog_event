@@ -38,7 +38,7 @@
 	<summary>3주차 컨텐츠 보기</summary>
 	<ul>
 		<li>
-			<p>작성중</p>
+			<p>작성중2</p>
 		</li>
 	</ul>
 </details>
