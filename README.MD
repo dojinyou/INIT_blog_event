@@ -37,7 +37,7 @@
 	<summary>3주차 컨텐츠 보기</summary>
 	<ul>
 		<li>
-			<p>작성중</p>
+			<a href='https://github.com/dojinyou/INIT_blog_event/issues/3'>solved.ac bronze 3 문제 풀기</a>
 		</li>
 	</ul>
 </details>
