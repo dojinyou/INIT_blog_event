@@ -50,7 +50,7 @@
 	</ul>
 </details>
 <details>
-	<summary>4주차 컨텐츠 보기</summary>
+	<summary>5주차 컨텐츠 보기</summary>
 	<ul>
 		<li>
 			<a href='https://github.com/dojinyou/INIT_blog_event/issues/5'>redis </a>
