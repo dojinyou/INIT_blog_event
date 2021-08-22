@@ -53,7 +53,7 @@
 	<summary>5주차 컨텐츠 보기</summary>
 	<ul>
 		<li>
-			<a href='https://github.com/dojinyou/INIT_blog_event/issues/5'>redis </a>
+			<a href='https://github.com/dojinyou/INIT_blog_event/issues/5'>solved.ac bronze 2 문제 풀기</a>
 		</li>
 	</ul>
 </details>
