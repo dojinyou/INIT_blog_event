@@ -58,4 +58,15 @@
 	</ul>
 </details>
 
+
+<details>
+	<summary>6주차 컨텐츠 보기</summary>
+	<ul>
+		<li>
+			<a href='https://github.com/dojinyou/INIT_blog_event/issues/6'>Server side 프레임워크 </a>
+		</li>
+	</ul>
+</details>
+
+
 **********************************************
